@@ -1,5 +1,5 @@
 <html>
-<h1>Welcome to CICD Demo Project</h1>
+<h1>Welcome to CICD Demo </h1>
 <%
 
 out.print(new java.util.Date());
