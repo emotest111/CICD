@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>CICD-Demo-Project</title>
+	<title>CICD-Demo-Project-updated</title>
 </head>
 <body>
 <form action="display.jsp">
